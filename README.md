@@ -8,4 +8,4 @@ Volte nesse repositório sempre que precisar, sempre que quiser lembrar o quanto
 </div>
 
 
-[Link para o nosso repositório]([link_para_a_pagina_do_repositorio](https://decocamp.github.io/TeAmoInfinitamente.github.io/))
+[Link para o nosso repositório](https://decocamp.github.io/TeAmoInfinitamente.github.io/)
